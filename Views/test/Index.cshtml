@@ -1,3 +1,36 @@
 @model UserResult
+@section Scripts {
+    <script>
+        function addItem() {
+            var li = document.createElement("LI");
+            var input = document.getElementById("add");
+            li.innerHTML = input.value;
+            input.value = @foreach (var user in Model.Results)
+        {
+            @user.Name.First @user.Name.Last
+        }
+            };
 
-<p> @Model.Name </p>
+        document.getElementById("people").appendChild(li);
+                    }
+    </script>
+}
+
+<p>
+    @if (Model.Results != null)
+    {
+
+    <p>Press for random person</p>
+    <ul id="people">
+        <li></li>
+    </ul>
+    <input type="button" id="add" value="test" onclick="addItem()">
+
+    }
+    else
+    {
+    <p>No data found</p>
+    }
+
+
+</p>

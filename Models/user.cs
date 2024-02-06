@@ -1,16 +1,25 @@
+using System;
+using System.Collections.Generic;
+
 public class UserResult
+{
+    public List<Result> Results { get; set; }
+    public Info Info { get; set; }
+}
+
+public class Result
 {
     public string Gender { get; set; }
     public Name Name { get; set; }
     public Location Location { get; set; }
     public string Email { get; set; }
     public Login Login { get; set; }
-    public DateOfBirth Dob { get; set; }
-    public RegisteredInfo Registered { get; set; }
+    public Dob Dob { get; set; }
+    public Registered Registered { get; set; }
     public string Phone { get; set; }
     public string Cell { get; set; }
-    public IdInfo Id { get; set; }
-    public PictureInfo Picture { get; set; }
+    public Id Id { get; set; }
+    public Picture Picture { get; set; }
     public string Nat { get; set; }
 }
 
@@ -23,27 +32,28 @@ public class Name
 
 public class Location
 {
-    public StreetInfo Street { get; set; }
+    public Street Street { get; set; }
     public string City { get; set; }
     public string State { get; set; }
     public string Country { get; set; }
-    public int Postcode { get; set; }
-    public CoordinatesInfo Coordinates { get; set; }
-    public TimezoneInfo Timezone { get; set; }
+    public string Postcode { get; set; }
+    public Coordinates Coordinates { get; set; }
+    public Timezone Timezone { get; set; }
 }
-public class StreetInfo
+
+public class Street
 {
     public int Number { get; set; }
     public string Name { get; set; }
 }
 
-public class CoordinatesInfo
+public class Coordinates
 {
     public string Latitude { get; set; }
     public string Longitude { get; set; }
 }
 
-public class TimezoneInfo
+public class Timezone
 {
     public string Offset { get; set; }
     public string Description { get; set; }
@@ -60,27 +70,35 @@ public class Login
     public string Sha256 { get; set; }
 }
 
-public class DateOfBirth
+public class Dob
 {
     public DateTime Date { get; set; }
     public int Age { get; set; }
 }
 
-public class RegisteredInfo
+public class Registered
 {
     public DateTime Date { get; set; }
     public int Age { get; set; }
 }
 
-public class IdInfo
+public class Id
 {
     public string Name { get; set; }
     public string Value { get; set; }
 }
 
-public class PictureInfo
+public class Picture
 {
     public string Large { get; set; }
     public string Medium { get; set; }
     public string Thumbnail { get; set; }
+}
+
+public class Info
+{
+    public string Seed { get; set; }
+    public int Results { get; set; }
+    public int Page { get; set; }
+    public string Version { get; set; }
 }
