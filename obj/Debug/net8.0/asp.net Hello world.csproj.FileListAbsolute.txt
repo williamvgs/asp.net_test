@@ -63,3 +63,37 @@ C:\Users\William\Documents\asp.net_test\obj\Debug\net8.0\ref\asp.net Hello world
 C:\Users\William\Documents\asp.net_test\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\William\Documents\asp.net_test\obj\Debug\net8.0\asp.net Hello world.csproj.AssemblyReference.cache
 C:\Users\William\Documents\asp.net_test\obj\Debug\net8.0\asp.net Hello world.csproj.CopyComplete
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\appsettings.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.staticwebassets.runtime.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.exe
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.deps.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.runtimeconfig.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.dll
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\asp.net Hello world.pdb
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.csproj.AssemblyReference.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.AssemblyInfoInputs.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.AssemblyInfo.cs
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.csproj.CoreCompileInputs.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.RazorAssemblyInfo.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.RazorAssemblyInfo.cs
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.sourcelink.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets\msbuild.asp.net Hello world.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets\msbuild.build.asp.net Hello world.props
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.asp.net Hello world.props
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.asp.net Hello world.props
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\scopedcss\bundle\asp.net Hello world.styles.css
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\scopedcss\projectbundle\asp.net Hello world.bundle.scp.css
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.csproj.CopyComplete
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.dll
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\refint\asp.net Hello world.dll
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.pdb
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\asp.net Hello world.genruntimeconfig.cache
+C:\Users\video\OneDrive\Documents\git-repos\asp.net_test\obj\Debug\net8.0\ref\asp.net Hello world.dll
