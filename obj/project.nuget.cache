@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zbOFjA2seA83yznwXQIiBc8XTrKI6xQ8gkvZCafR5AMaiADPjCzRg20n4gP9XRq+42Of0TddOrOe/N3gITvn4A==",
+  "dgSpecHash": "jGDyZBpju5LHbSk9HnsMLFNBZfsUmygEBWn/Mh5jpjqDG9iI2PQ0WV8li1rg7so90yGTYY06wihvpMBan8vAsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\Documents\\cstest\\asp.net Hello world.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\William\\Documents\\asp.net_test\\asp.net Hello world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
